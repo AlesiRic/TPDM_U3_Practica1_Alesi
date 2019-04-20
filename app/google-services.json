@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "226292351527",
+    "firebase_url": "https://tpdmu3proyectotarea.firebaseio.com",
+    "project_id": "tpdmu3proyectotarea",
+    "storage_bucket": "tpdmu3proyectotarea.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:226292351527:android:3f8f1a5c70742244",
+        "android_client_info": {
+          "package_name": "com.example.clowntoy.tpdm_u3_practica1_alesi"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "226292351527-fot410r4oc26dpdneis10n5ck1al3435.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBxF9tH8aK-BdOmx7IZdr12vyxQJbMv17s"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "226292351527-fot410r4oc26dpdneis10n5ck1al3435.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
